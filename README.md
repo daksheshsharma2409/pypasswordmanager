@@ -48,3 +48,16 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+---
+
+## 👨‍💻 Author
+
+**Made with ❤️ by Dakshesh Sharma**  
+[GitHub Profile](https://github.com/daksheshsharma2409)
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
